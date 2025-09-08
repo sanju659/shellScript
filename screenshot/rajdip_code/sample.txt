@@ -1,0 +1,3 @@
+hello there I am learning shell script
+my favorite number is binary
+i hate summer more than anything
